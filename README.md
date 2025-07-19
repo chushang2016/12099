@@ -1,4 +1,4 @@
-#      
+#      基于springboot 网站建设服务系统
 
 #   项目资料包含：
 *   前后端源代码+SQL脚本
@@ -8,7 +8,7 @@
 #   项目资料获取方式
 *   需要资料或者有任何问题的加QQ：2684634017
 
-*   项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=12099
+*   项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=12099
 
 
 
